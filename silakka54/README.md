@@ -14,4 +14,4 @@ Follow the instructions at [Firmware Update](https://github.com/Squalius-cephalu
 ## How to load configuration
 Download [Vial](https://get.vial.today/) and follow the user manual to learn about it.
 
-Then, load the `setup.via` to overwrite the keyboard configuration.
+Then, load the `config.vil` to overwrite the keyboard configuration.
