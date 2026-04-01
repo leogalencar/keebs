@@ -1,4 +1,4 @@
-# Sillaka54
+# Silakka54
 
 This is my first custom keyboard built with the following initial setup:
 - Switches: Outemu Silent Honey Peach V3
